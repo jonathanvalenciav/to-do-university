@@ -4,21 +4,25 @@ REDES:
 ✔ EXAMEN 1 - Redes @done(20-08-14 20:37)
 ✘ Actividad 3 @cancelled(20-08-26 23:57)
 ✔ EXAMEN 2 . Redes. 4 DE SEPTIEMBRE @high @done(20-09-01 22:51)
-☐ PARCIAL [18 de Septiembre] @high 
+☐ PARCIAL [22 de Septiembre] @high 
 
 SIMULACION:
-☐ Desatrazar contenido de Simulación 
+✘ Desatrazar contenido de Simulación @cancelled(20-09-21 20:41)
 ✔ Buscar el artículo científico para Simulación y recibir aval de la profesora. @done(20-08-16 11:27)
 ✔ Taller de simulación @critical @today @done(20-08-23 22:58)
 ✔ Compartir el modelo construído de los seguros. @done(20-08-10 17:50)
-☐ Definir el modelo conceptual con su respectiva situacion problematizadora para construir el modelo lógico. (Definir relaciones, interrelaciones)
+✘ Definir el modelo conceptual con su respectiva situacion problematizadora para construir el modelo lógico. (Definir relaciones, interrelaciones) @cancelled(20-09-21 20:13)
 ✔ Instalar Vensim @done(20-09-07 20:51)
-☐ Construir el modelo en Vensin para dos variables de nivel definidas. 31 DE AGOSTO
+✔ Construir el modelo en Vensin para dos variables de nivel definidas. 31 DE AGOSTO @done(20-09-21 20:13)
 ✔ QUIZ 1 - Modelo conceptual y lógico en Moodle. 7 DE SEPTIEMBRE. @high @done(20-09-07 20:51)
 ✔ PARCIAL - Modelo conceptual, lógico y estadístico. 15 DE SEPTIEMBRE @done(20-09-14 19:47)
-☐ TALLER - Simulación
+✘ TALLER - Simulación @cancelled(20-09-21 20:13)
 ☐ Preparar guión ARTÍCULO CIENTÍFICO [19 de Septiembre] @important 
 ✔ Hacer el resumen del Artículo Científico y enviarlo al Decano. @high. Antes del 7 de Septiembre. @done(20-09-03 19:19)
+☐ QUIZ 2
+☐ Hacer las correcciones sobre el modelo que se planeo. Especialmente obtener el modelo matemático. [En el block hay información de valor]
+☐ Queda otro ejercicio para resolver. Se debe controlar que las solicitud no sobre pasen el 80% de la capacidad de procesamiento. Controlando las entradas. [El modelo está en el documento de la clase.]
+☐ Queda taller con otros 3 ejercicios. [Modelo conceptual, modelo lógico, matemático, causal, experimentación y resultado de la experimentación ]
 
 SISTEMAS OPERATIVOS:
 ✔ Ver primera clase de Sistemas Operativos @done(20-08-29 10:55)
@@ -40,6 +44,9 @@ SISTEMAS OPERATIVOS:
 ✔ ACTIVIDAD 9 - Chapter 10 @today @done(20-09-12 09:04)
 ✔ EXAMEN 10 - Chapter 9 @today @done(20-09-12 11:18)
 ✔ ACTIVIDAD 10 - Chapter 10 @today @done(20-09-12 11:13)
+✔ AcTIVIDAD 11 @done(20-09-19 10:18)
+✔ EXAMEN 11 @done(20-09-19 10:18)
+✔ EXAMEN CERTIFICACIÓN MITAD DE CURSO @done(20-09-19 10:18)
 ☐ PARCIAL 26 de Septiembre @critical 
 
 DISPOSITIVOS MÓVILES:
@@ -47,7 +54,7 @@ DISPOSITIVOS MÓVILES:
 ✔ Configurar el entorno para desarollo en Android [Android Studio] @done(20-08-11 22:39)
 ☐ Hacer curso Android [Udemy]
 ✔ RETO 1 @done(20-09-01 21:39)
-☐ RETO 2 - 23 de Septiembre @low 
+☐ RETO 2 - 23 de Septiembre @critical
 ✔ PRESENTACION DE APLICACIÓN PARA PARCIAL - 8 de Septiembre @critical @done(20-09-09 18:23)
 ✔ PARCIAL - 16 de Septiembre @critical @done(20-09-16 17:29)
 
