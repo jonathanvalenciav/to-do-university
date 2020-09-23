@@ -17,7 +17,7 @@ SIMULACION:
 ✔ QUIZ 1 - Modelo conceptual y lógico en Moodle. 7 DE SEPTIEMBRE. @high @done(20-09-07 20:51)
 ✔ PARCIAL - Modelo conceptual, lógico y estadístico. 15 DE SEPTIEMBRE @done(20-09-14 19:47)
 ✘ TALLER - Simulación @cancelled(20-09-21 20:13)
-☐ Preparar guión ARTÍCULO CIENTÍFICO [19 de Septiembre] @important 
+☐ Preparar guión ARTÍCULO CIENTÍFICO [19 de Septiembre] @critical 
 ✔ Hacer el resumen del Artículo Científico y enviarlo al Decano. @high. Antes del 7 de Septiembre. @done(20-09-03 19:19)
 ☐ QUIZ 2
 ☐ Hacer las correcciones sobre el modelo que se planeo. Especialmente obtener el modelo matemático. [En el block hay información de valor]
@@ -61,11 +61,17 @@ DISPOSITIVOS MÓVILES:
 MODELADO DE SOFTWARE 2:    
 ✔ Hacer la matriz solicitada para el proyecto de Modelado de Software 2 @done(20-08-11 14:26)
 ✔ Entrega del taller (Martes - 18 de Agosto) @done(20-08-18 20:15)
-☐ Trabajar en el área de conocimiento: ALCANCE DEL PROYECTO Y CRONOGRAMA
+✔ Trabajar en el área de conocimiento: ALCANCE DEL PROYECTO Y CRONOGRAMA @done(20-09-22 18:11)
 ✔ QUIZ 1 - Áreas de conocimiento: ALCANCE Y CRONOGRAMA @done(20-09-01 21:38)
 ✔ Preparar una socialización de las áreas de conocimiento: CALIDAD, ADQUISICIONES, GESTIÓN DE RIESGO, COMUNICACIONES E INVOLUCRAMIENTO DE LOS INTERESADOS. @done(20-09-08 20:30)
 ✔ PARCIAL [15 de Septiembre] @critical @done(20-09-15 19:57)
-☐ QUIZ 2 - Actividad para entregar con exposición [22 de Septiembre]
+✔ QUIZ 2 - Actividad para entregar con exposición [22 de Septiembre] @done(20-09-22 18:11)
+☐ Completar el resto de áreas de conocimiento de la PLANIFICACIÓN DEL PROYECTO.
+☐ Contra la información de la PLANIFICACIÓN: Planificación de recursos. Vamos a decir ¿Cuáles son las estrategias de ejecución de la adquisición de recursos para nuestro proyecto?
+☐ Plantear las estrategias para el Desarrollo del Equipo. (Desde la perspectiva de Director de Proyecto) Competencias del equipo, ambiente, motivación, desempeño del equipo para el proyecto.
+☐ Plantear las estrategias para el Desarrollo del Equipo. (Desde la perspectiva de Integrante) ¿Cómo puedo aportar al desarrollo de mi equipo de trabajo?
+☐ Plantear las estrategias como DIRECTOR DE PROYECTO. ¿Cómo se haría la valoración del desempeño del equipo de trabajo? ¿Cómo es la estrategia para la resolución de problemas? ¿Cómo se afronta y gestiona el cambio?
+☐ QUIZ 3 [6 de Octubre]
 
 PROYECTO DE GRADO:
 ✔ Reunión con Farid (Asesor) contexto inicial. @done(20-08-18 09:05)
@@ -74,3 +80,4 @@ PROYECTO DE GRADO:
     Osman no se pudo conectar
 ☐ Configurar el proyecto en mi equipo
 ✔ Hacer reunión de levantamiento de requerimientos @done(20-09-03 19:19)
+☐ Enviar nuevamente la propuesta para ser discutida en el comité.
