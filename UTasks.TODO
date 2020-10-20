@@ -7,8 +7,8 @@ REDES:
 ✔ PARCIAL [23 de Septiembre] @high @done(20-09-27 12:53)
 ✔ ACTIVIDAD 4 @done(20-10-07 00:21)
 ✔ ACTIVIDAD 5 @done(20-10-07 21:29)
-☐ ACTIVIDAD 6
-☐ EXAMEN 3 - Redes. 13 DE OCTUBRE.
+✔ ACTIVIDAD 6 @done(20-10-14 08:58)
+✔ EXAMEN 3 - Redes. 13 DE OCTUBRE. @done(20-10-13 19:54)
 
 SIMULACION:
 ✘ Desatrazar contenido de Simulación @cancelled(20-09-21 20:41)
@@ -27,7 +27,9 @@ SIMULACION:
 ✘ Hacer las correcciones sobre el modelo que se planeo. Especialmente obtener el modelo matemático. [En el block hay información de valor] @cancelled(20-10-05 20:36)
 ✘ Queda otro ejercicio para resolver. Se debe controlar que las solicitud no sobre pasen el 80% de la capacidad de procesamiento. Controlando las entradas. [El modelo está en el documento de la clase.] @cancelled(20-10-05 20:36)
 ✘ Queda taller con otros 3 ejercicios. [Modelo conceptual, modelo lógico, matemático, causal, experimentación y resultado de la experimentación ] @cancelled(20-10-05 20:36)
-☐ Documentar el ejercicio del modelo de CORONAVIRUS dado que hará parte del quiz. [19 de Octubre]
+✘ Documentar el ejercicio del modelo de CORONAVIRUS dado que hará parte del quiz. [19 de Octubre] @cancelled(20-10-19 20:32)
+☐ Terminar de modelar por agentes el ejercico de CORONAVIRUS
+☐ Video de exposición de artículo científico [DECANATURA] [26 de Octubre]
 
 SISTEMAS OPERATIVOS:
 ✔ Ver primera clase de Sistemas Operativos @done(20-08-29 10:55)
@@ -57,11 +59,11 @@ SISTEMAS OPERATIVOS:
 ✔ EXAMEN 12 - Chapter 12 @done(20-10-03 10:44)
 ✔ ACTIVIDAD 13 - Chapter 13 @done(20-10-03 10:44)
 ✔ EXAMEN 13 - Chapter 13 @done(20-10-03 10:44)
-☐ ACTIVIDAD 14 - Chapter 14 - 10 de Octubre
-☐ EXAMEN 14 . Chapter 14 - 10 de Octubre
-☐ ACTIVIDAD 15 - Chapter 15 - 11 de Octubre
-☐ EXAMEN 15 . Chapter 15 - 11 de Octubre
-☐ EXAMEN CERTIFICACIÓN - CURSO
+✔ ACTIVIDAD 14 - Chapter 14 - 10 de Octubre @done(20-10-13 17:32)
+✔ EXAMEN 14 . Chapter 14 - 10 de Octubre @done(20-10-13 17:32)
+✘ ACTIVIDAD 15 - Chapter 15 - 11 de Octubre @cancelled(20-10-13 17:33)
+✘ EXAMEN 15 . Chapter 15 - 11 de Octubre @cancelled(20-10-13 17:33)
+✔ EXAMEN CERTIFICACIÓN - CURSO [Se activa 16 de Octubre - Se vence el 17 de Octubre] @done(20-10-16 16:33)
 
 
 DISPOSITIVOS MÓVILES:
@@ -89,6 +91,7 @@ MODELADO DE SOFTWARE 2:
 ✔ Plantear las estrategias como DIRECTOR DE PROYECTO. ¿Cómo se haría la valoración del desempeño del equipo de trabajo? ¿Cómo es la estrategia para la resolución de problemas? ¿Cómo se afronta y gestiona el cambio? @done(20-10-07 00:21)
 ✔ QUIZ 3 [6 de Octubre] @done(20-10-07 00:21)
 ☐ Estrategias para TODAS las áreas de conocimiento de la EJECUCIÓN
+☐ Estrategias de medición y control para todas las áreas de conocimiento.
 
 PROYECTO DE GRADO:
 ✔ Reunión con Farid (Asesor) contexto inicial. @done(20-08-18 09:05)
