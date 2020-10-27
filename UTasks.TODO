@@ -31,8 +31,9 @@ SIMULACION:
 ✘ Queda otro ejercicio para resolver. Se debe controlar que las solicitud no sobre pasen el 80% de la capacidad de procesamiento. Controlando las entradas. [El modelo está en el documento de la clase.] @cancelled(20-10-05 20:36)
 ✘ Queda taller con otros 3 ejercicios. [Modelo conceptual, modelo lógico, matemático, causal, experimentación y resultado de la experimentación ] @cancelled(20-10-05 20:36)
 ✘ Documentar el ejercicio del modelo de CORONAVIRUS dado que hará parte del quiz. [19 de Octubre] @cancelled(20-10-19 20:32)
-☐ Terminar de modelar por agentes el ejercico de CORONAVIRUS
-☐ Video de exposición de artículo científico [DECANATURA] [26 de Octubre]
+✔ Terminar de modelar por agentes el ejercico de CORONAVIRUS @done(20-10-26 19:29)
+✔ Video de exposición de artículo científico [DECANATURA] [26 de Octubre] @done(20-10-26 21:38)
+☐ Taller de Simulación Discreta. 
 
 SISTEMAS OPERATIVOS:
 ✔ Ver primera clase de Sistemas Operativos @done(20-08-29 10:55)
